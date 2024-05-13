@@ -2,7 +2,8 @@
 ##### GUI written in Python, with the PySimpleGUI library
 ##### Custome database created with SQL
 
-### Video demo below 
+
+### Demonstration video below
 
 https://github.com/mthorn-ai/PayrollSystem/assets/125159227/d52e9e9e-6abd-490e-aac7-5d48bd1a787f
 
